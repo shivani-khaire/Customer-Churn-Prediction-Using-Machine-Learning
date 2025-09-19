@@ -34,11 +34,11 @@ This project builds a **machine learning model** to predict whether a customer w
 ---
 
 ## 🔹 Project Structure
-│── Customer_Churn_Prediction_using_ML.ipynb # Main Jupyter Notebook
-│── README.md # Documentation
-│── requirements.txt # Dependencies
-│── data/ # (optional) dataset
-│── results/ # (optional) plots, outputs
+- Customer_Churn_Prediction_using_ML.ipynb # Main Jupyter Notebook
+- README.md # Documentation
+- requirements.txt # Dependencies
+- data/ # (optional) dataset
+- results/ # (optional) plots, outputs
 
 ---
 
