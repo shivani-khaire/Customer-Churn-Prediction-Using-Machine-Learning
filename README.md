@@ -31,6 +31,3 @@ This project builds a **machine learning model** to predict whether a customer w
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost  
 - **Tools:** Jupyter Notebook, GitHub  
 
----
-
-## 🔹 Project Structure
