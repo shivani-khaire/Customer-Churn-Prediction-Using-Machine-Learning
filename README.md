@@ -29,4 +29,40 @@ This project builds a **machine learning model** to predict whether a customer w
 ## 🔹 Tech Stack
 - **Language:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost  
-- **Tools:** Jupyter Notebook, GitHub  
+- **Tools:** Jupyter Notebook, GitHub
+
+---
+
+## 🔹 Project Structure
+│── Customer_Churn_Prediction_using_ML.ipynb # Main Jupyter Notebook
+│── README.md # Documentation
+│── requirements.txt # Dependencies
+│── data/ # (optional) dataset
+│── results/ # (optional) plots, outputs
+
+---
+
+## 🔹 Results
+- Customers with month-to-month contracts are more likely to churn
+- High monthly charges increase churn probability
+- Customers with short tenure show higher churn rates
+- Random Forest and XGBoost performed the best with strong ROC-AUC
+
+---
+
+## 🔹 requirements.txt
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+- xgboost
+- jupyter
+
+---
+
+## 🔹 Future Improvements
+- Fine-tune hyperparameters for higher accuracy
+- Deploy as a web app with Flask or Streamlit
+- Use real-time customer data for live predictions
+- Explore deep learning methods for churn prediction
